@@ -1,0 +1,8 @@
+апр. 12, 2024 12:13:42 AM Task5 writeToFile
+INFO: Данные успешно записаны в файл
+апр. 12, 2024 12:14:30 AM Task5 writeToFile
+INFO: Данные успешно записаны в файл
+апр. 12, 2024 12:14:54 AM Task5 writeToFile
+WARNING: Ошибка записи в файл!
+апр. 12, 2024 12:15:03 AM Task5 writeToFile
+INFO: Данные успешно записаны в файл

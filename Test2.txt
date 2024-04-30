@@ -1,0 +1,8 @@
+.git
+Homework_1
+log.txt
+log.txt.lck
+Seminar_1
+Seminar_2
+Test.txt
+Test2.txt
